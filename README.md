@@ -42,11 +42,6 @@ The dashboard includes:
 - A small number of products contribute significantly to overall sales.
 - The interactive slicers allow users to analyze performance by region, category, and year.
 
-## Project Structure
-
-- `superstore.xlsx` – Excel workbook containing the cleaned data, PivotTables, charts, and interactive dashboard.
-- `Dashboard` – Final interactive dashboard.
-- `Clean-data` – Cleaned Superstore dataset.
 
 ## Objective
 
