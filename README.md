@@ -1,4 +1,4 @@
-# Superstore Sales & Profit Analysis 📊
+# Superstore Sales & Profit Analysis 
 
 ## Project Overview
 
